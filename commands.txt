@@ -1,0 +1,11 @@
+token mukund:
+
+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
+
+3 commands to push code to github
+
+git add .
+
+git commit -m "Any meaningful name"
+
+git push origin main
